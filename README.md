@@ -1,6 +1,6 @@
 Molecular-LogP-Prediction
 
-A small ML project predicting experimental lipophilicity (LogD) of drug-like molecules from their structure, using RDKit descriptors and regression models.
+A small ML project predicting experimental lipophilicity (LogP) of drug-like molecules from their structure, using RDKit descriptors and regression models.
 What it does
 
 Parses and validates molecule SMILES strings with RDKit.
